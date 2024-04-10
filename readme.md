@@ -8,12 +8,33 @@ Welcome to the solution Predicting Lung Cancer - an example for your projects
 
 Machine learning for predicting lung cancer.
     
-## Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-    
+Explanation of Each Model
+Logistic Regression: A linear model used for binary classification that estimates the probability of a sample belonging to a particular class.
+
+Decision Tree: A tree-like model that splits the data into subsets based on the value of input features, making decisions based on feature values to classify instances.
+
+K-Nearest Neighbor (KNN): A non-parametric method used for classification by finding the 'k' nearest data points in the feature space and assigning the most common class among them to the query point.
+
+Gaussian Naive Bayes: A probabilistic classifier based on Bayes' theorem with the assumption of independence among features, often used for text classification tasks.
+
+Multinomial Naive Bayes: Similar to Gaussian Naive Bayes but specifically designed for classification tasks with discrete features, such as word counts in text classification.
+
+Support Vector Classifier (SVC): A supervised learning algorithm that finds the hyperplane that best separates classes in a high-dimensional space, often used for binary classification.
+
+Random Forest: An ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes (classification) or the mean prediction (regression) of the individual trees.
+
+XGBoost: An optimized gradient boosting library that implements machine learning algorithms under the Gradient Boosting framework, known for its speed and performance in handling large datasets.
+
+Multi-layer Perceptron (MLP): A type of artificial neural network composed of multiple layers of nodes (neurons) that can learn non-linear relationships between input and output data.
+
+Gradient Boosting Classifier: A machine learning technique that builds an ensemble of weak learners (typically decision trees) in a sequential manner, with each tree correcting the errors of its predecessors, resulting in a strong predictive model.
+
+
+![Code Logo](sample.png)
+
+
+
+
 ## Notebook Features
 - Self Documenting 
 - Self Testing 
