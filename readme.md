@@ -4,11 +4,11 @@
 ![Code Logo](code.png)
 ## Description
 
-Welcome to the solution Predicting Lung Cancer - an Machione learning framework - An example for your projects
+Welcome to the solution **Predicting Lung Cancer** - a Machine learning framework - An example for your projects
 
 Machine learning for predicting lung cancer.
     
-## Explanation of Each Model:
+## Explanation of each Machine Learning Model:
 
 1. **Logistic Regression** : A linear model used for binary classification that estimates the probability of a sample belonging to a particular class.
 
