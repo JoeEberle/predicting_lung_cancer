@@ -1,0 +1,60 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-12 13:29:20,099 - INFO - START predicting_lung_cancer =============================================
+2024-04-12 13:29:20,099 - INFO - START predicting_lung_cancer Start Time = 2024-04-12 13:29:20
+2024-04-12 13:29:20,099 - INFO - predicting_lung_cancer Step 0 - Initialize the configuration file parser
+2024-04-12 13:29:20,100 - INFO - Process predicting_lung_cancer Step 0 - Initializing and starting Logging Process.
+2024-04-12 13:29:20,119 - INFO - Process predicting_lung_cancer Step 1  - Read in Sample Data Set .
+2024-04-12 13:29:20,320 - INFO - Process predicting_lung_cancer Step 2.2  - Data Cleansing - Remove duplicates.
+2024-04-12 13:29:20,560 - INFO - Process predicting_lung_cancer Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 13:29:22,473 - INFO - Process predicting_lung_cancer Step 7 - Drop the columns that dont help the analysis
+2024-04-12 13:29:22,960 - INFO - Process predicting_lung_cancer Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 13:29:22,984 - INFO - Process predicting_lung_cancer Step 8 - Feature Engineering
+2024-04-12 13:29:28,077 - INFO - Process predicting_lung_cancer Machine Learning Model  - Logistic Regression
+2024-04-12 13:29:28,199 - INFO - Process predicting_lung_cancer Machine Learning Model  - Decision Tree
+2024-04-12 13:29:28,280 - INFO - Process predicting_lung_cancer Machine Learning Model  - K Nearest Neighbor
+2024-04-12 13:29:28,360 - INFO - Process predicting_lung_cancer Machine Learning Model  - Gaussian Naive Bayes
+2024-04-12 13:29:28,407 - INFO - Process predicting_lung_cancer Machine Learning Model  - Multinomial Naive Bayes
+2024-04-12 13:29:28,453 - INFO - Process predicting_lung_cancer Machine Learning Model  - Support Vector Classifier
+2024-04-12 13:29:28,642 - INFO - Process predicting_lung_cancer Machine Learning Model  - Random Forest
+2024-04-12 13:29:44,147 - INFO - Process predicting_lung_cancer Machine Learning Model  - Multi-layer Perceptron classifier
+2024-04-12 13:29:44,241 - INFO - Process predicting_lung_cancer Machine Learning Model  - Gradient Boosting
+2024-04-12 13:29:47,912 - INFO - Process predicting_lung_cancer  K-fold Cross Validation 
+2024-04-12 13:31:18,776 - INFO - PERFORMANCE predicting_lung_cancer The total process duration was:118.68
+2024-04-12 13:31:18,777 - INFO - PERFORMANCE predicting_lung_cancer Stop Time = 2024-04-12 13:31:18
+2024-04-12 13:31:18,777 - INFO - PERFORMANCE predicting_lung_cancer Low process duration less than 3 minutes:118.68
+2024-04-12 13:31:18,777 - INFO - PERFORMANCE predicting_lung_cancer Performance optimization is optional
+2024-04-12 13:31:18,777 - INFO - END predicting_lung_cancer =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-12 13:31:38,527 - INFO - START predicting_lung_cancer =============================================
+2024-04-12 13:31:38,527 - INFO - START predicting_lung_cancer Start Time = 2024-04-12 13:31:38
+2024-04-12 13:31:38,527 - INFO - predicting_lung_cancer Step 0 - Initialize the configuration file parser
+2024-04-12 13:31:38,528 - INFO - Process predicting_lung_cancer Step 0 - Initializing and starting Logging Process.
+2024-04-12 13:31:38,551 - INFO - Process predicting_lung_cancer Step 1  - Read in Sample Data Set .
+2024-04-12 13:31:38,765 - INFO - Process predicting_lung_cancer Step 2.2  - Data Cleansing - Remove duplicates.
+2024-04-12 13:31:39,012 - INFO - Process predicting_lung_cancer Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 13:31:40,781 - INFO - Process predicting_lung_cancer Step 7 - Drop the columns that dont help the analysis
+2024-04-12 13:31:41,216 - INFO - Process predicting_lung_cancer Step 5 - Plot all independent variables relationship to target variable
+2024-04-12 13:31:41,235 - INFO - Process predicting_lung_cancer Step 8 - Feature Engineering
+2024-04-12 13:31:46,012 - INFO - Process predicting_lung_cancer Machine Learning Model  - Logistic Regression
+2024-04-12 13:31:46,134 - INFO - Process predicting_lung_cancer Machine Learning Model  - Decision Tree
+2024-04-12 13:31:46,212 - INFO - Process predicting_lung_cancer Machine Learning Model  - K Nearest Neighbor
+2024-04-12 13:31:46,292 - INFO - Process predicting_lung_cancer Machine Learning Model  - Gaussian Naive Bayes
+2024-04-12 13:31:46,338 - INFO - Process predicting_lung_cancer Machine Learning Model  - Multinomial Naive Bayes
+2024-04-12 13:31:46,385 - INFO - Process predicting_lung_cancer Machine Learning Model  - Support Vector Classifier
+2024-04-12 13:31:46,560 - INFO - Process predicting_lung_cancer Machine Learning Model  - Random Forest
+2024-04-12 13:31:46,852 - INFO - Process predicting_lung_cancer Machine Learning Model  - Multi-layer Perceptron classifier
+2024-04-12 13:31:46,946 - INFO - Process predicting_lung_cancer Machine Learning Model  - Gradient Boosting
+2024-04-12 13:31:50,760 - INFO - Process predicting_lung_cancer  K-fold Cross Validation 
+2024-04-12 13:31:54,364 - INFO - PERFORMANCE predicting_lung_cancer The total process duration was:15.84
+2024-04-12 13:31:54,364 - INFO - PERFORMANCE predicting_lung_cancer Stop Time = 2024-04-12 13:31:54
+2024-04-12 13:31:54,364 - INFO - PERFORMANCE predicting_lung_cancer Low process duration less than 3 minutes:15.84
+2024-04-12 13:31:54,364 - INFO - PERFORMANCE predicting_lung_cancer Performance optimization is optional
+2024-04-12 13:31:54,364 - INFO - END predicting_lung_cancer =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
