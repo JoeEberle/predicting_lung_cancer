@@ -4,20 +4,21 @@
 ![Code Logo](code.png)
 ## Description
 
-Welcome to the solution Predicting Lung Cancer - an example for your projects
+Welcome to the solution Predicting Lung Cancer - an Machione learning framework - An example for your projects
 
 Machine learning for predicting lung cancer.
     
-Explanation of Each Model
-Logistic Regression: A linear model used for binary classification that estimates the probability of a sample belonging to a particular class.
+## Explanation of Each Model:
 
-Decision Tree: A tree-like model that splits the data into subsets based on the value of input features, making decisions based on feature values to classify instances.
+1. ** Logistic Regression ** : A linear model used for binary classification that estimates the probability of a sample belonging to a particular class.
 
-K-Nearest Neighbor (KNN): A non-parametric method used for classification by finding the 'k' nearest data points in the feature space and assigning the most common class among them to the query point.
+2. ** Decision Tree **: A tree-like model that splits the data into subsets based on the value of input features, making decisions based on feature values to classify instances.
 
-Gaussian Naive Bayes: A probabilistic classifier based on Bayes' theorem with the assumption of independence among features, often used for text classification tasks.
+3. ** K-Nearest Neighbor (KNN) **: A non-parametric method used for classification by finding the 'k' nearest data points in the feature space and assigning the most common class among them to the query point.
 
-Multinomial Naive Bayes: Similar to Gaussian Naive Bayes but specifically designed for classification tasks with discrete features, such as word counts in text classification.
+4. **Gaussian Naive Bayes ** : A probabilistic classifier based on Bayes' theorem with the assumption of independence among features, often used for text classification tasks.
+
+5. **Multinomial Naive Bayes**: Similar to Gaussian Naive Bayes but specifically designed for classification tasks with discrete features, such as word counts in text classification.
 
 Support Vector Classifier (SVC): A supervised learning algorithm that finds the hyperplane that best separates classes in a high-dimensional space, often used for binary classification.
 
