@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Predicting Lung Cancer - Machine learning for predicting lung cancer.
 Machine learning for predicting lung cancer.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Predicting Lung Cancer** - an example for your project
 Machine learning for predicting lung cancer.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
