@@ -48,5 +48,5 @@ To get started with the **Predicting Lung Cancer** solution repository, follow t
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](predicting_lung_cancer.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](predicting_lung_cancer-checkpoint.png)  <br>
+ ![additional_image](predicting_lung_cancer.png)  <br>![additional_image](predicting_lung_cancer-checkpoint.png)  <br>
     
