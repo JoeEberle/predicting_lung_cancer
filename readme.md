@@ -39,11 +39,8 @@ To get started with the **Predicting Lung Cancer** solution repository, follow t
  ![additional_image](predicting_lung_cancer.png)  <br>![additional_image](predicting_lung_cancer-checkpoint.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
