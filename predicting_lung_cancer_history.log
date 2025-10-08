@@ -120,3 +120,35 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-10-07 20:42:57,670 - INFO - START predicting_lung_cancer =============================================
+2025-10-07 20:42:57,670 - INFO - START predicting_lung_cancer Start Time = 2025-10-07 20:42:57
+2025-10-07 20:42:57,670 - INFO - predicting_lung_cancer Step 0 - Initialize the configuration file parser
+2025-10-07 20:42:57,675 - INFO - Process predicting_lung_cancer Step 0 - Initializing and starting Logging Process.
+2025-10-07 20:42:57,776 - INFO - Process predicting_lung_cancer Step 1  - Read in Sample Data Set .
+2025-10-07 20:42:58,067 - INFO - Process predicting_lung_cancer Step 2.2  - Data Cleansing - Remove duplicates.
+2025-10-07 20:42:58,250 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-07 20:42:58,312 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-07 20:42:58,563 - INFO - Process predicting_lung_cancer Step 5 - Plot all independent variables relationship to target variable
+2025-10-07 20:43:00,924 - INFO - Process predicting_lung_cancer Step 7 - Drop the columns that dont help the analysis
+2025-10-07 20:43:01,420 - INFO - Process predicting_lung_cancer Step 5 - Plot all independent variables relationship to target variable
+2025-10-07 20:43:01,456 - INFO - Process predicting_lung_cancer Step 8 - Feature Engineering
+2025-10-07 20:43:05,708 - INFO - Process predicting_lung_cancer Machine Learning Model  - Logistic Regression
+2025-10-07 20:43:06,118 - INFO - Process predicting_lung_cancer Machine Learning Model  - Decision Tree
+2025-10-07 20:43:06,334 - INFO - Process predicting_lung_cancer Machine Learning Model  - K Nearest Neighbor
+2025-10-07 20:43:06,453 - INFO - Process predicting_lung_cancer Machine Learning Model  - Gaussian Naive Bayes
+2025-10-07 20:43:06,511 - INFO - Process predicting_lung_cancer Machine Learning Model  - Multinomial Naive Bayes
+2025-10-07 20:43:06,574 - INFO - Process predicting_lung_cancer Machine Learning Model  - Support Vector Classifier
+2025-10-07 20:43:06,983 - INFO - Process predicting_lung_cancer Machine Learning Model  - Random Forest
+2025-10-07 20:43:07,355 - INFO - Process predicting_lung_cancer Machine Learning Model  - Multi-layer Perceptron classifier
+2025-10-07 20:43:07,538 - INFO - Process predicting_lung_cancer Machine Learning Model  - Gradient Boosting
+2025-10-07 20:43:12,685 - INFO - Process predicting_lung_cancer  K-fold Cross Validation 
+2025-10-07 20:43:18,259 - INFO - PERFORMANCE predicting_lung_cancer The total process duration was:20.59
+2025-10-07 20:43:18,259 - INFO - PERFORMANCE predicting_lung_cancer Stop Time = 2025-10-07 20:43:18
+2025-10-07 20:43:18,259 - INFO - PERFORMANCE predicting_lung_cancer Low process duration less than 3 minutes:20.59
+2025-10-07 20:43:18,259 - INFO - PERFORMANCE predicting_lung_cancer Performance optimization is optional
+2025-10-07 20:43:18,259 - INFO - END predicting_lung_cancer =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
