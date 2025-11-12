@@ -4,11 +4,7 @@
 
 ## Machine learning for predicting lung cancer.
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 # 🧠 Lung Cancer Prediction with 10 Machine Learning Models
 
 ## This project implements lung cancer prediction using 10 machine learning classifiers from the Scikit-learn and XGBoost libraries in Python. 
@@ -67,7 +63,7 @@ The goal is to develop robust predictive models that can assess the likelihood o
 
 
 
-Welcome to the solution **Predicting Lung Cancer** - an example for your projects
+Welcome to the solution **Predicting Lung Cancer** 
 
 Machine learning for predicting lung cancer.
 
@@ -130,13 +126,7 @@ The goal is to develop robust predictive models that can assess the likelihood o
 
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
