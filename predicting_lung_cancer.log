@@ -26,3 +26,7 @@
 2025-11-03 21:18:55,947 - INFO - PERFORMANCE predicting_lung_cancer Low process duration less than 3 minutes:20.59
 2025-11-03 21:18:55,947 - INFO - PERFORMANCE predicting_lung_cancer Performance optimization is optional
 2025-11-03 21:18:55,947 - INFO - END predicting_lung_cancer =============================================
+2025-11-06 14:28:50,154 - INFO - START predicting_lung_cancer =============================================
+2025-11-06 14:28:50,154 - INFO - START predicting_lung_cancer Start Time = 2025-11-06 14:28:50
+2025-11-06 14:28:50,154 - INFO - predicting_lung_cancer Step 0 - Initialize the configuration file parser
+2025-11-06 14:28:50,165 - INFO - Process predicting_lung_cancer Step 0 - Initializing and starting Logging Process.
